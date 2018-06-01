@@ -13,4 +13,5 @@
     <string name="re_enter_password">Återge lösenord</string>
     <string name="har_du_redan_ett_konto_logga_in">Har du redan ett konto? Logga in</string>
     <string name="skapa_konto">Skapa konto</string>
+    <string name="logga">Logga</string>
 </resources>
